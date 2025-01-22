@@ -22,4 +22,4 @@ A fishing bot which allows you to get all ressources from the sea in minecraft w
 
 3)Throw the fishing rod and go take a coffee, the bot is working !
 
-![how to place your fishing rods](fishing_bot_minecraft/fishing_rod.png)
+![how to place your fishing rods](fishing_rod.png)
